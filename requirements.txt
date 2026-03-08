@@ -70,3 +70,4 @@ Markdown==3.10
 Pygments==2.19.2
 
 duckduckgo-search>=6.3.0
+litellm>=1.60.0
