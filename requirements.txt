@@ -1,7 +1,6 @@
 # Core CrewAI
 crewai==1.5.0
 crewai-tools==1.5.0
-duckduckgo-search>=6.3.0
 firecrawl-py
 
 # LLM Frameworks
@@ -69,3 +68,5 @@ bcrypt==5.0.0
 Jinja2==3.1.6
 Markdown==3.10
 Pygments==2.19.2
+
+duckduckgo-search>=6.3.0
