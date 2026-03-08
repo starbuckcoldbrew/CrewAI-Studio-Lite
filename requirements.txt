@@ -1,6 +1,8 @@
 # Core CrewAI
 crewai==1.5.0
 crewai-tools==1.5.0
+duckduckgo-search
+firecrawl-py
 
 # LLM Frameworks
 langchain==1.1.0
